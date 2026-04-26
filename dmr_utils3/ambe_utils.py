@@ -23,10 +23,9 @@
 from binascii import b2a_hex as ahex
 from bitarray import bitarray
 from bitstring import BitArray
-from bitstring import BitString
 
 __author__     = 'Mike Zingman, N4IRR and Cortney T. Buffington, N0MJS'
-__copyright__  = 'Copyright (c) 2017 Mike Zingman N4IRR'
+__copyright__  = 'Copyright (c) 2017 Mike Zingman N4IRR, 2026 Cortney T. Buffington'
 __credits__    = 'Cortney T. Buffington, N0MJS; Colin Durbridge, G4EML, Steve Zingman, N4IRS; Jonathan Naylor, G4KLX; Hans Barthen, DL5DI; Torsten Shultze, DG1HT'
 __license__    = 'GNU GPLv3'
 __maintainer__ = 'Cort Buffington, N0MJS'
