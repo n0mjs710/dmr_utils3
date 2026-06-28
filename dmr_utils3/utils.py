@@ -59,7 +59,7 @@ def bytes_4(_int_id):
 
 # Convert bytes to an int (radio ID, etc.)
 def int_id(_hex_bytes):
-    return int(ahex(_hex_bytes), 16)
+    return int.from_bytes(_hex_bytes, 'big')
 
 
 #************************************************
